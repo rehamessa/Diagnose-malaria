@@ -1,11 +1,11 @@
 # Diagnose-malaria
 ### malaria
-Malaria is a disease caused by a parasite. The parasite is transmitted to humans through the bite of the infected mosquito. People with malaria usually feel very sick, with a high fever and chills.
+> Malaria is a disease caused by a parasite. The parasite is transmitted to humans through the bite of the infected mosquito. People with malaria usually feel very sick, with a high fever and chills.
 
   ![alt text](image/pn.51.17.figure1.jpg)
 
 ### Symptoms
-Malaria signs and symptoms include:
+> Malaria signs and symptoms include:
 
 * fever
 *  chills
