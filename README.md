@@ -27,3 +27,5 @@
   >The dataset contains 2 folders - Infected and Uninfected with Training and Testing.
 #### Implementation
   Building an deep learning model to recognise cell images as Infected/Uninfected, Binary classification task. As a deep learning model I used convolution neural network as they perform great in fetching important information from images.
+#### Inspiration
+>Save humans by detecting and deploying Image Cells that contain Malaria or not!
