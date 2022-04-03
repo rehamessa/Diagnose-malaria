@@ -21,3 +21,7 @@
 *  breathing rate
 *  fast heart rate
 *  cough
+
+> Dataset Link:- https://www.kaggle.com/miracle9to9/files1
+ Content:-
+  >The dataset contains 2 folders - Infected and Uninfected with Training and Testing.
